@@ -206,146 +206,172 @@ Opportunity Score v1 =
 
 Percentile rank normalization was used to reduce distortion from outlier values.
 
-점수 모델 설명
+### 점수 모델 설명
 
 최종 Opportunity Score는 세 가지 축으로 구성했습니다.
 
-Market Scale Index / 시장 규모 지수
+### Market Scale Index / 시장 규모 지수
+
 지역별 제조업 전체 규모를 측정합니다.
-Manufacturing Upgrade Potential Index / 제조 고도화 가능성 지수
+
+### Manufacturing Upgrade Potential Index / 제조 고도화 가능성 지수
+
 사업장당 출하액, 생산액, 부가가치, 종사자 수 등을 통해 자동화 투자 여력을 추정합니다.
-Sales Accessibility Index / 영업 접근성 지수
+
+### Sales Accessibility Index / 영업 접근성 지수
+
 등록공장 수, 입주업체 수, 가동업체 수, 산업단지 가동률 등을 통해 실제 영업 타깃 접근 가능성을 측정합니다.
+
+---
 
 ## 7. Key Findings
 
 The v1 model identifies the following top opportunity regions:
 
-| Rank |	Region	| Strategic Meaning |
-| 1 |	Gyeonggi	| Largest addressable manufacturing market |
-| 2	| Chungnam	| High-value advanced manufacturing opportunity |
-| 3	| Gyeongnam	| Balanced manufacturing opportunity |
-| 4	| Gyeongbuk	| Balanced manufacturing opportunity |
-| 5	| Jeonnam	| High-upgrade-potential manufacturing market |
+| Rank | Region | Strategic Meaning |
+|---:|---|---|
+| 1 | Gyeonggi | Largest addressable manufacturing market |
+| 2 | Chungnam | High-value advanced manufacturing opportunity |
+| 3 | Gyeongnam | Balanced manufacturing opportunity |
+| 4 | Gyeongbuk | Balanced manufacturing opportunity |
+| 5 | Jeonnam | High-upgrade-potential manufacturing market |
 
-핵심 결과
+### 핵심 결과
 
 v1 점수 모델 기준 상위 지역은 다음과 같습니다.
 
-| 순위	| 지역|	전략적 의미|
-|1|	경기|	가장 큰 제조업 주소지정 가능 시장|
-|2	|충남	|고부가 첨단 제조업 기회|
-|3	|경남	|균형 잡힌 제조업 영업기회|
-|4	|경북	|균형 잡힌 제조업 영업기회|
-|5	|전남	|제조 고도화 가능성이 높은 지역|
+| 순위 | 지역 | 전략적 의미 |
+|---:|---|---|
+| 1 | 경기 | 가장 큰 제조업 주소지정 가능 시장 |
+| 2 | 충남 | 고부가 첨단 제조업 기회 |
+| 3 | 경남 | 균형 잡힌 제조업 영업기회 |
+| 4 | 경북 | 균형 잡힌 제조업 영업기회 |
+| 5 | 전남 | 제조 고도화 가능성이 높은 지역 |
+
+---
 
 ## 8. Business Development Interpretation
-Gyeonggi
+
+### Gyeonggi
 
 Gyeonggi ranks first due to its dominant manufacturing scale and high sales accessibility.
 
 It should be treated as the primary broad sales coverage market for pipeline generation, distributor expansion, and multi-industry account targeting.
 
-Chungnam
+### Chungnam
 
 Chungnam combines strong market scale with high manufacturing upgrade potential.
 
 It may be attractive for automation opportunities related to semiconductors, displays, batteries, materials, components, and advanced manufacturing facilities.
 
-Gyeongnam and Gyeongbuk
+### Gyeongnam and Gyeongbuk
 
 Gyeongnam and Gyeongbuk show balanced profiles across market size, manufacturing base, and accessibility.
 
 These regions may be suitable for vertical-specific sales plays in machinery, industrial equipment, automotive parts, shipbuilding, and heavy manufacturing.
 
-Ulsan and Jeonnam
+### Ulsan and Jeonnam
 
 Ulsan has the highest manufacturing upgrade potential, while Jeonnam also shows strong upgrade potential.
 
 These regions may be better approached through selective strategic account targeting rather than broad outbound sales coverage.
 
-Incheon, Seoul, Daegu, and Busan
+### Incheon, Seoul, Daegu, and Busan
 
 These regions show relatively strong sales accessibility.
 
 They may be effective for channel partnerships, distributor management, SI collaboration, headquarters sales, and service coverage expansion.
 
-8-1. BD 전략 해석
-경기
+---
+
+## 8-1. BD 전략 해석
+
+### 경기
 
 경기는 제조업 사업체 수, 출하액, 등록공장 수 측면에서 가장 큰 시장입니다.
 
 따라서 대규모 영업 커버리지, 파이프라인 생성, 대리점 확대, 다산업 타깃팅에 적합한 1순위 지역으로 볼 수 있습니다.
 
-충남
+### 충남
 
 충남은 시장 규모와 제조 고도화 가능성이 모두 높은 지역입니다.
 
 반도체, 디스플레이, 배터리, 소재/부품, 첨단 제조시설 관련 자동화 솔루션의 타깃 지역으로 해석할 수 있습니다.
 
-경남 / 경북
+### 경남 / 경북
 
 경남과 경북은 시장 규모, 제조 기반, 영업 접근성이 균형 잡힌 지역입니다.
 
 기계, 산업장비, 자동차 부품, 조선, 중공업 관련 자동화 솔루션의 영업 타깃으로 적합합니다.
 
-울산 / 전남
+### 울산 / 전남
 
 울산과 전남은 제조 고도화 가능성이 높은 지역입니다.
 
 다만 광범위한 아웃바운드 영업보다는 대형 제조 고객, 핵심 공장, 앵커 계정 중심의 전략적 영업 방식이 더 적합합니다.
 
-인천 / 서울 / 대구 / 부산
+### 인천 / 서울 / 대구 / 부산
 
 이 지역들은 영업 접근성이 상대적으로 높은 지역입니다.
 
 직접 공장 자동화 타깃팅뿐 아니라 대리점, SI, 본사 영업, 파트너십, 서비스 커버리지 확대 관점에서 접근할 수 있습니다.
 
+---
+
 ## 9. Visualization Summary / 시각화 요약
 
 The notebook includes three core visualizations:
 
-Top 10 Regions by Opportunity Score
-Highlights the strongest overall opportunity regions, with the top three regions emphasized.
-Market Scale vs. Manufacturing Upgrade Potential
-Compares each region by total market size and upgrade potential, while highlighting key strategic regions.
-Sales Accessibility Ranking
-Shows which regions offer the strongest reachable sales base through registered factories and active industrial clusters.
+1. **Top 10 Regions by Opportunity Score**  
+   Highlights the strongest overall opportunity regions, with the top three regions emphasized.
+
+2. **Market Scale vs. Manufacturing Upgrade Potential**  
+   Compares each region by total market size and upgrade potential, while highlighting key strategic regions.
+
+3. **Sales Accessibility Ranking**  
+   Shows which regions offer the strongest reachable sales base through registered factories and active industrial clusters.
 
 노트북에는 세 가지 핵심 시각화가 포함되어 있습니다.
 
-Opportunity Score 기준 Top 10 지역
-시장 규모 vs 제조 고도화 가능성 점도표
-영업 접근성 기준 Top 10 지역
+1. **Opportunity Score 기준 Top 10 지역**
+2. **시장 규모 vs 제조 고도화 가능성 점도표**
+3. **영업 접근성 기준 Top 10 지역**
+
+---
 
 ## 10. Tools Used
 
-Python
-Pandas
-NumPy
-Matplotlib
-Kaggle Notebook
-GitHub
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Kaggle Notebook
+- GitHub
+
+---
 
 ## 11. Portfolio Value
 
 This project demonstrates the ability to:
 
-Clean and standardize public datasets
-Build a business-oriented scoring model
-Translate data analysis into sales strategy
-Prioritize regions for go-to-market planning
-Communicate technical analysis as a business development portfolio
-포트폴리오 가치
+- Clean and standardize public datasets
+- Build a business-oriented scoring model
+- Translate data analysis into sales strategy
+- Prioritize regions for go-to-market planning
+- Communicate technical analysis as a business development portfolio
+
+### 포트폴리오 가치
 
 이 프로젝트는 다음 역량을 보여주기 위해 제작되었습니다.
 
-공공데이터 수집 및 정리
-Python 기반 데이터 분석
-지역명 표준화 및 데이터 병합
-비즈니스 목적에 맞는 점수 모델 설계
-분석 결과를 영업전략과 GTM 전략으로 전환
-산업자동화/제조 솔루션 시장에 대한 BD 관점 제시
+- 공공데이터 수집 및 정리
+- Python 기반 데이터 분석
+- 지역명 표준화 및 데이터 병합
+- 비즈니스 목적에 맞는 점수 모델 설계
+- 분석 결과를 영업전략과 GTM 전략으로 전환
+- 산업자동화/제조 솔루션 시장에 대한 BD 관점 제시
+
+---
 
 ## 12. Limitations and Next Steps
 
@@ -353,34 +379,44 @@ This is a v1 model based on regional-level public data, so the results should be
 
 Future improvements may include:
 
-Industry-level segmentation
-Company-level account targeting
-Automation equipment category mapping
-Distributor and channel network data
-Revenue potential estimation by region and industry
-Integration with CRM or sales pipeline data
-한계 및 다음 단계
+- Industry-level segmentation
+- Company-level account targeting
+- Automation equipment category mapping
+- Distributor and channel network data
+- Revenue potential estimation by region and industry
+- Integration with CRM or sales pipeline data
+
+### 한계 및 다음 단계
 
 이 분석은 지역 단위 공공데이터를 기반으로 한 v1 모델입니다.
 
-따라서 최종 계정 타깃 리스트라기보다는 지역별 영업 우선순위를 판단하기 위한 방향성 있는 프레임워크로 해석하는 것이 적절합니다.
+따라서 최종 계정 타깃 리스트라기보다는 **지역별 영업 우선순위를 판단하기 위한 방향성 있는 프레임워크**로 해석하는 것이 적절합니다.
 
 향후에는 다음 요소를 추가해 분석을 고도화할 수 있습니다.
 
-산업별 세분화
-기업 단위 계정 타깃팅
-자동화 장비 카테고리 매핑
-대리점 및 채널 네트워크 데이터
-지역/산업별 매출 잠재력 추정
-CRM 또는 실제 세일즈 파이프라인 데이터 연동
+- 산업별 세분화
+- 기업 단위 계정 타깃팅
+- 자동화 장비 카테고리 매핑
+- 대리점 및 채널 네트워크 데이터
+- 지역/산업별 매출 잠재력 추정
+- CRM 또는 실제 세일즈 파이프라인 데이터 연동
+
+---
 
 ## 13. References / 참고 출처
-KOSIS Korean Statistical Information Service: https://kosis.kr/
-KOSIS English Service: https://kosis.kr/eng/
-Public Data Portal Korea: https://www.data.go.kr/
-Public Data Portal English Service: https://www.data.go.kr/en/index.do
-FactoryOn: https://www.factoryon.go.kr/
+
+- KOSIS Korean Statistical Information Service: https://kosis.kr/
+- KOSIS English Service: https://kosis.kr/eng/
+- Public Data Portal Korea: https://www.data.go.kr/
+- Public Data Portal English Service: https://www.data.go.kr/en/index.do
+- FactoryOn: https://www.factoryon.go.kr/
+
+---
 
 ## 14. Author
 
-Created by Namhun Kim
+Created by **Namhun Kim**
+
+Business Development | Strategic Partnerships | Industrial Technology | Data-Driven GTM Strategy
+
+
