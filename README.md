@@ -202,6 +202,7 @@ Opportunity Score v1 =
 40% Market Scale Index
 + 30% Manufacturing Upgrade Potential Index
 + 30% Sales Accessibility Index
+```
 
 Percentile rank normalization was used to reduce distortion from outlier values.
 
@@ -215,27 +216,30 @@ Manufacturing Upgrade Potential Index / 제조 고도화 가능성 지수
 사업장당 출하액, 생산액, 부가가치, 종사자 수 등을 통해 자동화 투자 여력을 추정합니다.
 Sales Accessibility Index / 영업 접근성 지수
 등록공장 수, 입주업체 수, 가동업체 수, 산업단지 가동률 등을 통해 실제 영업 타깃 접근 가능성을 측정합니다.
-7. Key Findings
+
+## 7. Key Findings
 
 The v1 model identifies the following top opportunity regions:
 
-Rank	Region	Strategic Meaning
-1	Gyeonggi	Largest addressable manufacturing market
-2	Chungnam	High-value advanced manufacturing opportunity
-3	Gyeongnam	Balanced manufacturing opportunity
-4	Gyeongbuk	Balanced manufacturing opportunity
-5	Jeonnam	High-upgrade-potential manufacturing market
+| Rank |	Region	| Strategic Meaning |
+| 1 |	Gyeonggi	| Largest addressable manufacturing market |
+| 2	| Chungnam	| High-value advanced manufacturing opportunity |
+| 3	| Gyeongnam	| Balanced manufacturing opportunity |
+| 4	| Gyeongbuk	| Balanced manufacturing opportunity |
+| 5	| Jeonnam	| High-upgrade-potential manufacturing market |
+
 핵심 결과
 
 v1 점수 모델 기준 상위 지역은 다음과 같습니다.
 
-순위	지역	전략적 의미
-1	경기	가장 큰 제조업 주소지정 가능 시장
-2	충남	고부가 첨단 제조업 기회
-3	경남	균형 잡힌 제조업 영업기회
-4	경북	균형 잡힌 제조업 영업기회
-5	전남	제조 고도화 가능성이 높은 지역
-8. Business Development Interpretation
+| 순위	| 지역|	전략적 의미|
+|1|	경기|	가장 큰 제조업 주소지정 가능 시장|
+|2	|충남	|고부가 첨단 제조업 기회|
+|3	|경남	|균형 잡힌 제조업 영업기회|
+|4	|경북	|균형 잡힌 제조업 영업기회|
+|5	|전남	|제조 고도화 가능성이 높은 지역|
+
+## 8. Business Development Interpretation
 Gyeonggi
 
 Gyeonggi ranks first due to its dominant manufacturing scale and high sales accessibility.
@@ -297,7 +301,7 @@ They may be effective for channel partnerships, distributor management, SI colla
 
 직접 공장 자동화 타깃팅뿐 아니라 대리점, SI, 본사 영업, 파트너십, 서비스 커버리지 확대 관점에서 접근할 수 있습니다.
 
-9. Visualization Summary / 시각화 요약
+## 9. Visualization Summary / 시각화 요약
 
 The notebook includes three core visualizations:
 
@@ -313,14 +317,17 @@ Shows which regions offer the strongest reachable sales base through registered 
 Opportunity Score 기준 Top 10 지역
 시장 규모 vs 제조 고도화 가능성 점도표
 영업 접근성 기준 Top 10 지역
-10. Tools Used
+
+## 10. Tools Used
+
 Python
 Pandas
 NumPy
 Matplotlib
 Kaggle Notebook
 GitHub
-11. Portfolio Value
+
+## 11. Portfolio Value
 
 This project demonstrates the ability to:
 
@@ -339,7 +346,8 @@ Python 기반 데이터 분석
 비즈니스 목적에 맞는 점수 모델 설계
 분석 결과를 영업전략과 GTM 전략으로 전환
 산업자동화/제조 솔루션 시장에 대한 BD 관점 제시
-12. Limitations and Next Steps
+
+## 12. Limitations and Next Steps
 
 This is a v1 model based on regional-level public data, so the results should be interpreted as a directional sales prioritization framework rather than a final account-level targeting list.
 
@@ -365,13 +373,14 @@ Integration with CRM or sales pipeline data
 대리점 및 채널 네트워크 데이터
 지역/산업별 매출 잠재력 추정
 CRM 또는 실제 세일즈 파이프라인 데이터 연동
-13. References / 참고 출처
+
+## 13. References / 참고 출처
 KOSIS Korean Statistical Information Service: https://kosis.kr/
 KOSIS English Service: https://kosis.kr/eng/
 Public Data Portal Korea: https://www.data.go.kr/
 Public Data Portal English Service: https://www.data.go.kr/en/index.do
 FactoryOn: https://www.factoryon.go.kr/
 
-14. Author
+## 14. Author
 
 Created by Namhun Kim
