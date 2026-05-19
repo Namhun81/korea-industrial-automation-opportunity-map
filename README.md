@@ -419,4 +419,5 @@ Created by **Namhun Kim**
 
 Business Development | Strategic Partnerships | Industrial Technology | Data-Driven GTM Strategy
 
-
+- Kaggle: https://www.kaggle.com/namhunk1m
+- Project Notebook: https://www.kaggle.com/code/namhunk1m/korea-industrial-automation-opportunity-map
